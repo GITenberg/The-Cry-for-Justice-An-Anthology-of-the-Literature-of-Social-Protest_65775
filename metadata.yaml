@@ -1,5 +1,5 @@
 _repo: The-Cry-for-Justice-An-Anthology-of-the-Literature-of-Social-Protest_65775
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: London, Jack
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '120'
     url: http://www.gutenberg.org/2009/agents/120
     wikipedia: https://en.wikipedia.org/wiki/Jack_London
+covers:
+- cover_type: archival
+  image_path: 65775-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/88
     wikipedia: https://en.wikipedia.org/wiki/Upton_Sinclair
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65775#The-Cry-for-Justice-An-Anthology-of-the-Literature-of-Social-Protest
 gutenberg_issued: '2021-07-05'
 gutenberg_type: Text
 identifiers:
